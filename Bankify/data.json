@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Rohit",
+        "email": "rohitk@gmail.com",
+        "age": 21,
+        "pin": 1234,
+        "account": "BNY0rd4%9Y1",
+        "balance": 2550.0
+    },
+    {
+        "name": "Rohit Admin",
+        "email": "admin@gmail.com",
+        "age": 21,
+        "pin": 1234,
+        "account": "BNY12345",
+        "balance": 0.0
+    }
+]
